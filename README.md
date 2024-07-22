@@ -13,6 +13,22 @@ The goal is to leverage deep learning techniques to . . .
 - Develop an automated system capable of accurately detecting COVID-19.
 - Facilitate early detection and treatment
 - Improve Healthcare Outcomes
-- Create an Accessible Health Care Solution
-- Facilitate Knowledge Sharing and Education
 
+# Datasets
+the datasets have multiple covid and non-covid images and divided into train and test subfolders
+
+
+# Usage
+To run this project, open the notebook Omdena_Covid_Xception.ipynb in Google Colab and start executing each cell as instructed. The notebook contains detailed instructions about how to download the dataset from google drive your account.
+
+
+
+## Evaluation
+
+The following figure shows how training and validation accuracy change over epochs during the training process. It also represents the changes in training and validation loss over the training epochs.
+
+
+
+## Conclusion
+
+developed the streamlit app to predict the image for covid or non-covid.
